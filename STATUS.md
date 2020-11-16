@@ -16,7 +16,7 @@ To update your company's status, or if your company is not on the list, send a p
 |Falu Energi & Vatten| Q3 2020 | Q3 2020 | Q3 2020 | Q3 2020 | Q3 2020 | Q3 2020 | Q3 2020 | Q3 2020 | Q3 2020 |
 |Fibra| Yes | Yes | Yes | No | Yes | No | No | No | No |
 |IP-Only| | | | | | | | | |
-|Itux| |Q2 2021|Q2 2021| | | | | | |
+|Itux| |Q3 2020|Q3 2020| | | | | | |
 |Lunet| | | | | | | | | |
 |Open Infra| | | | | | | | | |
 |Open Universe| | | | | | | | | |
@@ -36,7 +36,7 @@ To update your company's status, or if your company is not on the list, send a p
 |Serverado| Yes |Yes|Yes|No|No|Yes|No|No|No|
 |Telenor| |No|No|No|No|No|No|No|No|
 |Th1ng| | | | | | | | | |
-|Viasat| | | | | | | | | |
+|Viasat| |Yes |Yes | | | | | | |
 
 ### ON-API 2.3.1
 
@@ -65,4 +65,4 @@ To update your company's status, or if your company is not on the list, send a p
 |Serverado|Yes|Yes|Yes|No|No|No|No|
 |Telenor|No|Yes|Yes|No|No|No|No
 |Th1ng| | | | | | | |
-|Viasat| | | | | | | |
+|Viasat| |Yes |Yes | | | | |
